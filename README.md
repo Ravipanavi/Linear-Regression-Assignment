@@ -3,8 +3,8 @@
 
 
 ## Table of Contents
-* [Problem Statenment](#Problem Statenment)
-* [Business goal](#Business goal)
+* [Problem Statenment](#Problem-statenment)
+* [Business goal](#Business-goal)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
