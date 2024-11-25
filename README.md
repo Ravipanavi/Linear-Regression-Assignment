@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Problem Statenment](#general-information)
+* [Business goal](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
