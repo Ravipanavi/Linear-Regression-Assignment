@@ -29,19 +29,21 @@ Essentials / Requirenments: You are required to model the demand for shared bike
 - Pandas
 - Seaborn
 - Matplotlib
+- Sklearn - train_test_module
+- Linear Regressionmodule
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-We would like to express our gratitude to the consumer finance company for providing the loan dataset and the opportunity to work on this project. Special thanks to our team members and mentors for their guidance, as well as to the data science community for offering invaluable resources that helped shape our analysis and recommendations.
+We would like to express our gratitude to the consumer finance company for providing the loan dataset and the opportunity to work on this project. Special thanks to our mentors for their guidance, as well as to the data science community for offering invaluable resources that helped shape our analysis and recommendations.
 
-- This project was based on https://www.upgrad.com
+
 
 
 ## Contact
-Created by Ravi & Revanth  
-ravipanavirs@gmail.com and revanth.nkps@gmail.com 
+Created by Ravi P 
+ravipanavirs@gmail.com 
 
 - "Feel free to reach out us if you need anything!"
 
