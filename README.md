@@ -3,8 +3,8 @@
 
 
 ## Table of Contents
-* [Problem Statenment](#general-information)
-* [Business goal](#general-information)
+* [Problem Statenment](#Problem Statenment)
+* [Business goal](#Business goal)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -35,8 +35,15 @@ Essentials / Requirenments: You are required to model the demand for shared bike
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+
+## Conclusions
+- Year, workingday, temp, windspeed, summer, winter, sep, sat, Light_snowrain, Misty are influencing bike rental demand
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+
 ## Acknowledgements
-We would like to express our gratitude to the consumer finance company for providing the loan dataset and the opportunity to work on this project. Special thanks to our mentors for their guidance, as well as to the data science community for offering invaluable resources that helped shape our analysis and recommendations.
+- We would like to express our gratitude to the consumer finance company for providing the loan dataset and the opportunity to work on this project. Special thanks to our mentors for their guidance, as well as to the data science community for offering invaluable resources that helped shape our analysis and recommendations.
 
 
 
