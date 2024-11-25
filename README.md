@@ -1,5 +1,5 @@
 # Project Name
-> Linear Regression
+> Linear-Regression-Assignment
 
 
 ## Table of Contents
